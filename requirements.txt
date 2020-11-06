@@ -1,0 +1,28 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1592528583041/work
+certifi==2020.6.20
+click==7.1.2
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1604315001636/work
+Flask==1.1.2
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.17.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1603668500820/work
+MarkupSafe @ file:///D:/bld/markupsafe_1602267501600/work
+numpy==1.19.3
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+pandas==1.1.4
+Pillow @ file:///D:/bld/pillow_1603406849807/work
+pygame==2.0.0
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1603558917696/work
+PyMySQL==0.10.1
+python-dateutil==2.8.1
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1604321279890/work
+scikit-learn==0.23.2
+scipy==1.5.3
+six==1.15.0
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1602142927465/work
+threadpoolctl==2.1.0
+Werkzeug==1.0.1
+wincertstore==0.2
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1603668650351/work
